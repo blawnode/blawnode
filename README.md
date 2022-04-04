@@ -1,6 +1,9 @@
+<!--Possible TO-DO: Put links on all badges.-->
+
 ### Me
 <p align="center"><img alt="Blawnode" src="https://github.com/blawnode/image1/blob/main/Blawnode%20Logo%20(MAX).png" height="200"></p>
 Hi, I’m Blawnode. I love pixels. █
+I have a separate LinkedIn profile [here](https://www.linkedin.com/in/ido-waisbart-3b927b149/).
 
 #
 ### Interests
@@ -29,10 +32,13 @@ Hi, I’m Blawnode. I love pixels. █
 ### Where I upload my works
 [Itch.io](https://blawnode.itch.io/) - I post my games here. Mostly games made in game jams.
 
+![Twitter](https://img.shields.io/badge/<Blawnode>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 [Twitter](https://twitter.com/blawnode) - I post mostly pixel art and animation, but occassionally music and game-dev posts too.
 
+![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
 [Soundcloud](https://soundcloud.com/user-987269267) - I sometimes post my music here.
 
+![YouTube](https://img.shields.io/badge/<YouTube>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 [YouTube](https://www.youtube.com/channel/UCldotnKAENFMJRmH9esOqxA) - I sometimes post my music here, too.
 
 [Bandcamp](https://blawnode.bandcamp.com/) - I want to post my music here as well.
