@@ -1,10 +1,11 @@
 ### Me
-Image
-- Hi, I’m Blawnode. I love pixels. █
+<p align="center"><img alt="Blawnode" src="https://github.com/blawnode/image1/blob/main/Blawnode%20Logo%20(MAX).png" height="200"></p>
+Hi, I’m Blawnode. I love pixels. █
 
 #
 ### Interests
 - I’m interested a lot in game development, music/chiptune production, pixel art and animation.
+  
   I'm also interested in writing, website development, and playing video games.
 
 #
@@ -17,8 +18,8 @@ Image
 
 #
 ### Notable current projects
+<p align="center"><img alt="Triple Triangle" src="https://github.com/blawnode/image1/blob/main/ItchLogo.png" height="200"></p>
 - I am close to finishing a simple, yet polished, mobile game, made with Unity.
-
 #
 ### Notable past/finished projects
 - A maze generator and solver in Python, using the Pillow module.
