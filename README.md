@@ -5,7 +5,7 @@
 Hi, I’m Blawnode. I love pixels. █
 
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
-I have a separate LinkedIn profile [here](https://linkedin.com/in/ido-waisbart/).
+I have a separate LinkedIn profile. To find it, look for my name. I will not put my link here.
 
 #
 ### Interests
