@@ -31,15 +31,23 @@
 
 #
 ### Notable past/finished projects
-- A maze generator and solver in Python, using the Pillow module. A link is due.
-
 - [Several game jams](https://blawnode.itch.io/). In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
 
-Most noteworthy of all, is <b>Adrift</b> - An Overcooked-like game made by a team I am currently managing. I am the project manager for the game, and also a Unity programmer and a pixel artist and animator. Link and image are due.
+Most noteworthy of all, is <b>Adrift</b> - An Overcooked-like game made by a team I am currently managing. I am the project manager for the game, and also a Unity programmer and a pixel artist and animator. Link is due.
 
-Another noteworthy example is <b>The Cackler</b> - A submission to an unconventional game jam. I had a month to make a custom battle for Everhood. While I won utterly nothing, I love the result. I made the battle alone: the art, the music (fully original) and the programming. Link and image are due.
+<p align="center">
+  <img alt="Adrift" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200">
+</p>
 
-- Encrypto - An encryption library with 4 well-known cipher implementations: Caesar, Vigenere, AES and RSA. A link is due.
+
+Another noteworthy example is <b>[The Cackler](https://github.com/blawnode/EverhoodCackler)</b> - A submission to an unconventional game jam. I had a month to make a custom battle for Everhood. While I won utterly nothing, I love the result. I made the battle alone: the art, the music (fully original) and the programming. Link and image are due.
+
+<p align="center">
+  <!-- TODO: Add a download link to the actual battle, show a video, and a few (one?) preview GIFs. More presentability! -->
+  <a href="https://github.com/blawnode/EverhoodCackler" target="_blank">
+    <img alt="Cackler" src="https://user-images.githubusercontent.com/37482595/168480246-e5c44d16-e87b-49e7-bef8-781c9b0ac770.png" height="200" />
+  </a>
+</p>
 
 #
 ### Where I upload my works
@@ -69,7 +77,9 @@ For music, I use either a piano, the DAW _LMMS_, or mostly the chiptune tracker,
 
 #
 ### Contact
-- 📫 How to reach me: No way yet. Maybe I will get back to Discord one day, hopefully.
+- 📫 How to reach me: blawnode@gmail.com
+
+Maybe I will get back to Discord one day, hopefully.
 <!--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 <!--![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)-->
 
