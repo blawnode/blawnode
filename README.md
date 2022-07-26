@@ -2,36 +2,44 @@
 
 ### Me
 <p align="center"><img alt="Blawnode" src="https://github.com/blawnode/image1/blob/main/Blawnode%20Logo%20(MAX).png" height="200"></p>
-Hi, I’m Blawnode. I love pixels. █
+██ Hi, I’m Blawnode. I love pixels. ██
 
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
-I have a separate LinkedIn profile. To find it, look for my name. I will not put my link here.
+<!--I have a separate LinkedIn profile. To find it, look for my name. I will not put my link here.-->
 
 #
 ### Interests
 - I’m interested a lot in game development, music/chiptune production, pixel art and animation.
   
-  I'm also interested in writing, website development, and playing video games.
+  I'm also interested in writing, website development, software development and playing video games.
 
 #
 ### Education
 - I’m currently learning **computer science** at the Open University.
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-- I love the programming languages C# and Python, and also occassionally use many more, like C++, and HTML/JS. (see LinkedIn).
+- I love the programming languages C# and Python, and also occassionally use many more, like C++, and HTML/JS.<!-- (see LinkedIn).-->
 
 #
 ### Looking for
-- I’m looking to collaborate on nothing, yet. One day, I'd like to make games in groups.
+- I’m not looking to collaborate on anything, yet. One day, I'd like to make games in groups.
 
 #
 ### Notable current projects
 <p align="center"><img alt="Triple Triangle" src="https://github.com/blawnode/image1/blob/main/ItchLogo.png" height="200"></p>
-- I am close to finishing a simple, yet polished, mobile game, made with Unity.
+- [Triple Triangle](https://blawnode.itch.io/tripletriangle/) - I have finished a simple, yet polished, casual mobile game, made with Unity. It's at a beta stage, ready for testing. I am not concentrating on the project at the moment.
+
 #
 ### Notable past/finished projects
-- A maze generator and solver in Python, using the Pillow module.
-- Several game jams. In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
+- A maze generator and solver in Python, using the Pillow module. A link is due.
+
+- [Several game jams](https://blawnode.itch.io/). In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
+
+Most noteworthy of all, is <b>Adrift</b> - An Overcooked-like game made by a team I am currently managing. I am the project manager for the game, and also a Unity programmer and a pixel artist and animator. Link and image are due.
+
+Another noteworthy example is <b>The Cackler</b> - A submission to an unconventional game jam. I had a month to make a custom battle for Everhood. While I won utterly nothing, I love the result. I made the battle alone: the art, the music (fully original) and the programming. Link and image are due.
+
+- Encrypto - An encryption library with 4 well-known cipher implementations: Caesar, Vigenere, AES and RSA. A link is due.
 
 #
 ### Where I upload my works
