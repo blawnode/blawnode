@@ -1,8 +1,8 @@
 <!--Possible TO-DO: Put links on all badges.-->
 
-### Me
+### Heya.
 <p align="center"><img alt="Blawnode" src="https://github.com/blawnode/image1/blob/main/Blawnode%20Logo%20(MAX).png" height="200"></p>
-██ Hi, I’m Blawnode. I love pixels. ██
+██ I'm here to make pixels alive!
 
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 <!--I have a separate LinkedIn profile. To find it, look for my name. I will not put my link here.-->
@@ -11,7 +11,7 @@
 ### Interests
 - I’m interested a lot in game development, music/chiptune production, pixel art and animation.
   
-  I'm also interested in writing, website development, software development and I used to play video games.
+  I'm also interested in writing, website development, software development and I rarely play video games.
 
 #
 ### Education
@@ -21,19 +21,13 @@
 - I love the programming languages C#, Js/React.js and Python, and also occassionally use others, like C++ and C.
 
 #
-### Looking for
-- I’m not looking to collaborate on anything, yet. One day, I'd like to make games in teams.
-
-#
 ### Notable current projects
-- [Adrift](https://blawnode.itch.io/adrift) - A small Overcooked-like 2D game. Since May 2022, I have been managing a group of 6 teammates (including myself. Now, we're 3.), to work on our personal jam game, which was made in a limited amount of time.
+- [Adrift Program](https://blawnode.itch.io/adrift) - A small Overcooked-like 2D game. Since May 2022 till October 2023, I have managed a group of 6 teammates (including myself. Eventually, we were 3.), to work on our personal jam game, which was made in a limited amount of time.
 
-I am the project manager for the game, and also a Unity programmer and a pixel artist and animator. Even composed a thing or two!
-
-The continuation has started in about the middle of July 2022, and is still ongoing, if slowly.
+I was the project manager for the game, and also a Unity programmer and a pixel artist and animator. Even composed a thing or two!
 
 <p align="center">
-  <img alt="Adrift" src="https://github.com/Ido-Waisbart/Ido-Waisbart/blob/main/Press%20Images/Adrift%20-%20630x500%20Itch%20Logo.png" height="200">
+  <img alt="Adrift Program" src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2606610/capsule_616x353.jpg?t=1694948291" height="200">
 </p>
 
 #
@@ -42,13 +36,9 @@ The continuation has started in about the middle of July 2022, and is still ongo
 
 - [Triple Triangle](https://blawnode.itch.io/tripletriangle/) - I have finished a simple, yet polished, casual mobile game, made with Unity.
 
-It's at a beta stage, ready for testing.
-
-I am not concentrating on the project at the moment.
-
 - [Several game jams](https://blawnode.itch.io/). In each, I fulfilled a different role: Unity/Godot Programmer, pixel artist/animator, chiptune musician, or sometimes all of them.
 
-- A great one is Adrift - its first version, that is.
+- A great one is Adrift Program - its first version, that is, named Adrift.
 
 At first, it was a 5 day game jam I've managed, with only a single 6-peep team making a game together.
 
@@ -91,13 +81,14 @@ For game development, I often like using _Unity_, but I dabble in _Godot_ as wel
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)-->
 For art, I usually use _Aseprite_, but I sometimes draw on paper, or draw digitally in _GIMP_, with a tablet.
 
-For music, I use either a piano, the DAW _LMMS_, or mostly the chiptune tracker, _FamiTracker_.
+For music, I use either a piano, the DAW _Reaper_, or mostly the chiptune tracker, _FamiTracker_.
 
 #
 ### Contact
 - 📫 How to reach me: blawnode@gmail.com
+        
+     Perhaps (!) I'm also available at Twitter or Discord at @blawnode.
 
-Maybe I will get back to Discord one day, hopefully.
 <!--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 <!--![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)-->
 
